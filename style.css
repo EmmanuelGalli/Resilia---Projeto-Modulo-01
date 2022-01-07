@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(http://f.i.uol.com.br/fotografia/2015/07/13/529751-970x600-1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.titulo { 
+    margin-top: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+    height: 50%;
+}
+
+.main {
+    height:80%;
+}
+
+.titulo2 {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color: #800000;
+    padding: 10px;
+    background-color: #ffffff91;
+    text-align: center;
+}
+
+.lista {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.personagem {
+    margin: 1px 0;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.imagem {
+    background: white;
+    width: 150px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 100px;
+    border: 5px solid #800000;
+}
+
+.imagem:hover{
+    border:6px solid #800000;
+    background-color: #800000; 
+}
+
+.paginap {
+    background: rgba (255,250,250,0.6);
+    opacity: 0.6;
+    margin: 0 70px 0 70px;
+    
+    border-radius: 3%;
+}
+
+.titulop, .tit-sucesso {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 45px;
+    color: #800000;
+    padding: 15px;
+}
+
+.tit-sucesso{
+    margin-top: 5%;
+    background-color: rgba(255, 255, 255, 0.479);
+}
+
+.textop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #800000;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.button button {
+    margin-right: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #800000;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button button:hover {
+    color: #800000;
+    background-color: white;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: monospace;
+    text-align: center;
+    background: #800000;
+    color: white;
+}
+

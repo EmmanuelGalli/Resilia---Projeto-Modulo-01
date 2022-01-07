@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(http://f.i.uol.com.br/fotografia/2015/07/13/529751-970x600-1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.titulo { 
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+    height: 50%;
+}
+
+.main {
+    height:80%;
+}
+
+.paginap {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color: #800000;
+    padding: 10px;
+    background-color: #ffffff91;
+    text-align: center;
+}
+
+.titulop {
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color: #800000;
+    padding: 15px;
+}
+
+.textop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #800000;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+}
+
+.button button {
+    margin-right: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #800000;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button button:hover {
+    color: #800000;
+    background-color: white;
+}
+
+
+.tit-erro {
+    color: white;
+    text-align: center;
+    margin: 3%;
+}
+.cry {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: monospace;
+    text-align: center;
+    background: #800000;
+    color: white;
+}
