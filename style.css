@@ -58,8 +58,7 @@ body {
 .paginap {
     background: rgba (255,250,250,0.6);
     opacity: 0.6;
-    margin: 0 70px 0 70px;
-    
+    margin: 0 70px 0 70px; 
     border-radius: 3%;
 }
 
@@ -143,8 +142,6 @@ footer{
     .imagem{
         width: 80px;
         height: 125px;
-        
-
         } 
 
     .titulo2 {
