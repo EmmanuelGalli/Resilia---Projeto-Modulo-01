@@ -8,7 +8,7 @@ body {
     background-size: 100%;
 }
 
-.titulo { 
+.header { 
     display: flex;
     align-items: center;
     justify-content: end;
@@ -92,4 +92,34 @@ footer{
     text-align: center;
     background: #800000;
     color: white;
+}
+
+@media (max-width: 700px) {
+    body {
+        background: url(https://imagensemoldes.com.br/wp-content/uploads/2020/02/Turma-do-Chaves-Barril-PNG-01.png);
+        background-color: #ebb56d;
+        background-size: 65%;
+        background-repeat: no-repeat;
+        background-position-y: 99%;
+        background-position-x: 50%;
+    }
+    
+    .header {
+        margin-top: 0;
+        justify-content: center;
+        background-color: rgba(255, 255, 255, 0.616);
+        margin-bottom: 2%;
+    }
+
+    .paginap, .textop {
+        font-family: 'Anton', sans-serif;
+        font-size: 30px;
+        color: #800000;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .button {
+        margin-bottom: 3%;
+    }
 }
