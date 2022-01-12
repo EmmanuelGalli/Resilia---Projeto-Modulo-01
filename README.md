@@ -18,7 +18,7 @@
 ## Desafios:
 Como primeiro projeto avaliativo, os desafios enfrentados foram o primeiro contato com a aaplicação prática de Javascript e detalhamentos mais específicos na estrutura do CSS3.
 O projeto foi entrege mas segue sendo atualizado para que se atinja um objetivo final melhor, numa constante evolução.
-## Assets:
+## Assets Iniciais:
 ![imagem readme](https://user-images.githubusercontent.com/95878600/149215546-0e987db9-661d-49a2-b707-17a20a597e5c.png)
 
 
