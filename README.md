@@ -4,13 +4,13 @@
 <h2>Tema: Chaves</2>
 <h2>Requisitos necessários:<br>
 - Deve ser possível jogar com ao menos 3 personagens diferentes;<br>
-- Ao menos 3 etapas/fases devem ser implementadas para cada personagem;
-- Os textos da narrativa devem ser apresentados na página HTML;
-- A verificação da entrada de dados do usuário deve ser realizada utilizando estruturas de repetição;
-- Estruturas condicionais devem ser utilizadas para guiar o jogador pela narrativa;
-- Cada etapa/fase deve ser implementada em um arquivo diferente;
-- Funções devem ser criadas e utilizadas para uma maior e melhor legibilidade do código;
-- O projeto desenvolvido deve ser fornecido em repositório no Github;
+- Ao menos 3 etapas/fases devem ser implementadas para cada personagem;<br>
+- Os textos da narrativa devem ser apresentados na página HTML;<br>
+- A verificação da entrada de dados do usuário deve ser realizada utilizando estruturas de repetição;<br>
+- Estruturas condicionais devem ser utilizadas para guiar o jogador pela narrativa;<br>
+- Cada etapa/fase deve ser implementada em um arquivo diferente;<br>
+- Funções devem ser criadas e utilizadas para uma maior e melhor legibilidade do código;<br>
+- O projeto desenvolvido deve ser fornecido em repositório no Github;<br>
 - Os grupos devem organizar uma apresentação (slides) que será utilizada no dia e entregue posteriormente;
 </h2>
  
