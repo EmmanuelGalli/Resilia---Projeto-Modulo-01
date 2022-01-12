@@ -11,7 +11,7 @@
 - Funções devem ser criadas e utilizadas para uma maior e melhor legibilidade do código;<br>
 - Fornecer o projeto desenvolvido em repositório no Github;<br>
 - Os grupos devem organizar uma apresentação (slides) que será utilizada no dia e entregue posteriormente;
-
+## Assets:
 ![imagem readme](https://user-images.githubusercontent.com/95878600/149215546-0e987db9-661d-49a2-b707-17a20a597e5c.png)
 
 
