@@ -1,4 +1,4 @@
- Projeto de encerramento do Modulo 01
+ <h1>Projeto de encerramento do Modulo 01</h1>
  
  Objetivo: Cumprindo os requisitos determinados, o grupo deveria criar um jogo no formato RPG, utilizando conteúdo HTML5, CSS3 e Javascript. O grupo escolheu a temática "Chaves", e o final do jogo deveria ser uma viagem para Acapulco.
  
