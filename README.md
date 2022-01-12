@@ -31,6 +31,8 @@ O projeto foi entrege mas segue sendo atualizado para que se atinja um objetivo 
 ## Assets Iniciais:
 ![imagem readme](https://user-images.githubusercontent.com/95878600/149215546-0e987db9-661d-49a2-b707-17a20a597e5c.png)
 
+![imagem chaves1](https://user-images.githubusercontent.com/95878600/149219597-1336a56f-17b6-4942-9e14-e455489d8d3a.png)
+
 
 
 
