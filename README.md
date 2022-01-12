@@ -7,10 +7,13 @@
 - Textos da narrativa apresentados na página HTML;<br>
 - Utilizar linguagem HTML5, CSS3 e Javascript;
 - Verificação da entrada de dados do usuário realizada utilizando estruturas de repetição;<br>
-- Estruturas condicionais utilizadas para guiar o jogador pela narrativa;<br>
+- Estruturas condicionais utilizadas para guiar o jogador pela narrativa Foram utilizadas as condicionais if, else if e else;<br>
 - Funções devem ser criadas e utilizadas para uma maior e melhor legibilidade do código;<br>
 - Fornecer o projeto desenvolvido em repositório no Github;<br>
 - Os grupos devem organizar uma apresentação (slides) que será utilizada no dia e entregue posteriormente;
+## Desafios:
+Como primeiro projeto avaliativo, os desafios enfrentados foram o primeiro contato com a aaplicação prática de Javascript e detalhamentos mais específicos na estrutura do CSS3.
+O projeto foi entrege mas segue sendo atualizado para que se atinja um objetivo final melhor, numa constante evolução.
 ## Assets:
 ![imagem readme](https://user-images.githubusercontent.com/95878600/149215546-0e987db9-661d-49a2-b707-17a20a597e5c.png)
 
