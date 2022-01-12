@@ -33,6 +33,11 @@ O projeto foi entrege mas segue sendo atualizado para que se atinja um objetivo 
 
 ![imagem chaves1](https://user-images.githubusercontent.com/95878600/149219597-1336a56f-17b6-4942-9e14-e455489d8d3a.png)
 
+![imagem chaves erro1](https://user-images.githubusercontent.com/95878600/149219774-fc62e7db-9adc-483c-a907-dc8cee9dc366.png)
+
+![imagem final](https://user-images.githubusercontent.com/95878600/149219918-31f2ff32-3d0d-4e77-82aa-40a7c57ecc26.png)
+
+
 
 
 
