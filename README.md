@@ -11,7 +11,8 @@ Requisitos necessários:<br>
 - Fornecer o projeto desenvolvido em repositório no Github;<br>
 - Os grupos devem organizar uma apresentação (slides) que será utilizada no dia e entregue posteriormente;
 
-![image](https://user-images.githubusercontent.com/95878600/149215063-f10234e3-eace-4102-acf4-58eb450336e9.png)
+![image](https://user-images.githubusercontent.com/95878600/149215253-8b528e40-7e1b-4538-a9f7-a89198602131.png)
+
 
 
 
