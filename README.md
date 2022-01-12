@@ -2,8 +2,8 @@
  
 <h2>Objetivo: Cumprindo os requisitos determinados (uso de linguagem HTML5,CSS# e Javascript), o grupo deveria criar um jogo no formato RPG
 <h2>Tema: Chaves</2>
-<h2>Requisitos necessários:
-- Deve ser possível jogar com ao menos 3 personagens diferentes;
+<h2>Requisitos necessários:<br>
+- Deve ser possível jogar com ao menos 3 personagens diferentes;<br>
 - Ao menos 3 etapas/fases devem ser implementadas para cada personagem;
 - Os textos da narrativa devem ser apresentados na página HTML;
 - A verificação da entrada de dados do usuário deve ser realizada utilizando estruturas de repetição;
